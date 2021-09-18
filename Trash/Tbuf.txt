@@ -1,0 +1,5 @@
+Some dependencies are incompatible with the installed expo package version:
+ - react-native-pager-view - expected version: 5.0.12 - actual version installed: 5.4.4    
+ - react-native-screens - expected version: ~3.4.0 - actual version installed: 3.7.2       
+Your project may not work correctly until you install the correct versions of the packages.
+To install the correct versions of these packages, please run: expo install [package-name ...]
