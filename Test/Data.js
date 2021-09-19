@@ -1,0 +1,98 @@
+export const dummyData = [
+  {
+    title: 'Waves & Sunset',
+    url: 'https://i.pinimg.com/originals/e8/10/19/e81019b9947a608689a9a5f0f224cdae.jpg',
+    description: 'This is the description part of Image',
+    id: 1,
+  },
+  {
+    title: 'Lake & Sunrise',
+    url: 'https://i.pinimg.com/750x/6e/15/c6/6e15c69976ddad57646664167f5f7546.jpg',
+    description: 'This is the Second description part of Image',
+    id: 2,
+  },
+  {
+    title: 'Flower & Lights',
+    url: 'https://i.pinimg.com/750x/65/4e/02/654e0221fc1872c569c4a7c77f475844.jpg',
+    description: 'This is the Third description part of Image',
+    id: 3,
+  },
+  {
+    title: 'Forest',
+    url: 'https://i.pinimg.com/750x/af/4d/db/af4ddbc00b70d2365cad75914d6ef0d5.jpg',
+    description: 'This is the Fourth description part of Image',
+    id: 4,
+  },
+  {
+    title: 'Waves & Sunset',
+    url: 'https://i.pinimg.com/originals/e8/10/19/e81019b9947a608689a9a5f0f224cdae.jpg',
+    description: 'This is the description part of Image',
+    id: 5,
+  },
+  {
+    title: 'Lake & Sunrise',
+    url: 'https://i.pinimg.com/750x/6e/15/c6/6e15c69976ddad57646664167f5f7546.jpg',
+    description: 'This is the Second description part of Image',
+    id: 6,
+  },
+  {
+    title: 'Flower & Lights',
+    url: 'https://i.pinimg.com/750x/65/4e/02/654e0221fc1872c569c4a7c77f475844.jpg',
+    description: 'This is the Third description part of Image',
+    id: 7,
+  },
+  {
+    title: 'Forest',
+    url: 'https://i.pinimg.com/750x/af/4d/db/af4ddbc00b70d2365cad75914d6ef0d5.jpg',
+    description: 'This is the Fourth description part of Image',
+    id: 8,
+  },
+  {
+    title: 'Waves & Sunset',
+    url: 'https://i.pinimg.com/originals/e8/10/19/e81019b9947a608689a9a5f0f224cdae.jpg',
+    description: 'This is the description part of Image',
+    id: 9,
+  },
+  {
+    title: 'Lake & Sunrise',
+    url: 'https://i.pinimg.com/750x/6e/15/c6/6e15c69976ddad57646664167f5f7546.jpg',
+    description: 'This is the Second description part of Image',
+    id: 10,
+  },
+  {
+    title: 'Flower & Lights',
+    url: 'https://i.pinimg.com/750x/65/4e/02/654e0221fc1872c569c4a7c77f475844.jpg',
+    description: 'This is the Third description part of Image',
+    id: 11,
+  },
+  {
+    title: 'Forest',
+    url: 'https://i.pinimg.com/750x/af/4d/db/af4ddbc00b70d2365cad75914d6ef0d5.jpg',
+    description: 'This is the Fourth description part of Image',
+    id: 12,
+  },
+  {
+    title: 'Waves & Sunset',
+    url: 'https://i.pinimg.com/originals/e8/10/19/e81019b9947a608689a9a5f0f224cdae.jpg',
+    description: 'This is the description part of Image',
+    id: 13,
+  },
+  {
+    title: 'Lake & Sunrise',
+    url: 'https://i.pinimg.com/750x/6e/15/c6/6e15c69976ddad57646664167f5f7546.jpg',
+    description: 'This is the Second description part of Image',
+    id: 14,
+  },
+  {
+    title: 'Flower & Lights',
+    url: 'https://i.pinimg.com/750x/65/4e/02/654e0221fc1872c569c4a7c77f475844.jpg',
+    description: 'This is the Third description part of Image',
+    id: 15,
+  },
+  {
+    title: 'Forest',
+    url: 'https://i.pinimg.com/750x/af/4d/db/af4ddbc00b70d2365cad75914d6ef0d5.jpg',
+    description: 'This is the Fourth description part of Image',
+    id: 16,
+  },
+];
